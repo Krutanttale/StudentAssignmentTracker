@@ -186,7 +186,7 @@ docker compose down -v
 ---
 
 ## ✨ Project Information
-
+👨‍💻 **Developer** Krutant Tale
 👨‍💻 **Project:** Student Assignment & Deadline Tracker  
 📚 **Category:** Python GUI and Database Management  
 🛠️ **Version:** 1.0.0
